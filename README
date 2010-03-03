@@ -1,0 +1,1 @@
+Fiddle around with the HTML <canvas> element! The purpose of this code is to have each element treated like an object, so that it can be moved around the canvas or resized. This can be the starting point for some vectorial drawing right on your browser or for some other fancy projects you may want to develop.
